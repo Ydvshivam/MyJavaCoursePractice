@@ -1,0 +1,11 @@
+/* --Whatever interface conatint only one method is know as functinol interfce
+Example
+Consumer
+supplier
+Function
+Runnable
+Predicat
+---In case only provide a mark or only for marking there will not be any memberes it does not provide any methods it only provide members and it is also known as tagging interfaces
+Example 
+Serealizable()
+Cloneable()

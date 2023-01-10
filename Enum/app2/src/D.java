@@ -1,0 +1,8 @@
+enum D
+{
+	;
+	void test()
+	{
+		
+	}
+}
